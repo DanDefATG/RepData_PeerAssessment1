@@ -46,7 +46,7 @@ To find the mean of total number of steps per day first of all we remove NA rows
 Then in the summary table are visible the mean and the median of the dataset.
 
 ### 2. Histogram of the total number of steps taken each day
-```{r step1, include=TRUE, echo = TRUE, warning= FALSE, message=FALSE,results = 'asis'}
+```{r step1}
 ############################################################################################################
 
 #For this part of the assignment, you can ignore the missing values in the dataset.
