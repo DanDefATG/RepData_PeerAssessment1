@@ -67,10 +67,6 @@ g <- ggplot(activity.tot, aes(x=steps)) +
 print(g)
 ```
 
-```
-## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
-```
-
 ![](PA1_template_files/figure-html/step1-1.png)<!-- -->
 
 ### 3. Mean and median number of steps taken each day
